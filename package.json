@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "bootstrap": "^5.1.0"
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "cypress": "^8.2.0",
+    "express": "^4.17.1",
+    "jekyll": "^3.0.0-beta1"
   }
 }
