@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://rubigroove.com/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/event.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/payme.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/login.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/index.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/blog.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/contact.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rubigroove.com/albums-store.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
