@@ -295,7 +295,7 @@ img {
   background-attachment: fixed !important; }
 
 /* :: 3.7.0 ScrollUp */
-/*#scrollUp {
+  #scrollUp {
   background-color: #000000;
   border-radius: 0;
   bottom: 50px;
